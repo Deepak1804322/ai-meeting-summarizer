@@ -34,14 +34,14 @@ An AI-powered full-stack web application that allows users to upload meeting tra
 
 (Add screenshots in `assets/` folder and link them here like below)
 
-![Home](screenshots/Screenshot 8.png)  
-![Transcript](screenshots/Screenshort 7.png)  
-![Custom] (screenshots/Screenshot 6.png)
-![Summary] (screenshots/Screenshot 5.png)
-![Edited] (screenshots/Screenshot 4.png)
-![Edited summary](screenshots/Screenshot 3.png)
-![Email] (screenshots/Screenshot 2.png)
-![Email Recevied in Inbox](screenshots/Screenshot 1.png)
+![Home](https://github.com/Deepak1804322/ai-meeting-summarizer/blob/main/screenshots/Screenshot%208.png) 
+![Transcript](https://github.com/Deepak1804322/ai-meeting-summarizer/blob/main/screenshots/Screenshort%207.png)  
+![Custom](https://github.com/Deepak1804322/ai-meeting-summarizer/blob/main/screenshots/Screenshot%206.png)
+![Summary](https://github.com/Deepak1804322/ai-meeting-summarizer/blob/main/screenshots/Screenshot%205.png)
+![Edited](https://github.com/Deepak1804322/ai-meeting-summarizer/blob/main/screenshots/Screenshot%204.png)
+![Edited summary](https://github.com/Deepak1804322/ai-meeting-summarizer/blob/main/screenshots/Screenshot%203.png)
+![Email](https://github.com/Deepak1804322/ai-meeting-summarizer/blob/main/screenshots/Screenshot%202.png)
+![Email Recevied in Inbox](https://github.com/Deepak1804322/ai-meeting-summarizer/blob/main/screenshots/Screenshot%201.png)
 
 ## ⚡ How to Run Locally
 
