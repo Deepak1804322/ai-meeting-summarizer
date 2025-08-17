@@ -34,8 +34,14 @@ An AI-powered full-stack web application that allows users to upload meeting tra
 
 (Add screenshots in `assets/` folder and link them here like below)
 
-![Home](assets/screenshot1.png)  
-![Transcript](assets/screenshot2.png)  
+![Home](screenshots/Screenshot 8.png)  
+![Transcript](screenshots/Screenshort 7.png)  
+![Custom] (screenshots/Screenshot 6.png)
+![Summary] (screenshots/Screenshot 5.png)
+![Edited] (screenshots/Screenshot 4.png)
+![Edited summary](screenshots/Screenshot 3.png)
+![Email] (screenshots/Screenshot 2.png)
+![Email Recevied in Inbox](screenshots/Screenshot 1.png)
 
 ## ⚡ How to Run Locally
 
@@ -79,9 +85,7 @@ Frontend runs on: `http://localhost:5173`
 ## 🎥 Demo
 
 ### Option 1: GIF inside README
-![Demo](assets/demo.gif)
+![Demo](https://drive.google.com/file/d/1DgiVBO1sFYRCeEj8kEoVfNJ9nkYoSITp/view?usp=drivesdk)
 
-### Option 2: Video Thumbnail linked to full video
-[![Watch Demo](assets/video-thumbnail.png)](https://drive.google.com/your-video-link-here)
 
 ---
