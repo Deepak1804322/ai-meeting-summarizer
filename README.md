@@ -85,7 +85,7 @@ Frontend runs on: `http://localhost:5173`
 ## 🎥 Demo
 
 ### Option 1: GIF inside README
-![Demo](https://drive.google.com/file/d/1DgiVBO1sFYRCeEj8kEoVfNJ9nkYoSITp/view?usp=drivesdk)
+![Demo](https://github.com/Deepak1804322/ai-meeting-summarizer/blob/main/demo/video)
 
 
 ---
